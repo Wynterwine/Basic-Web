@@ -1,5 +1,6 @@
 # Basic-Web
 ![rating-default-5](https://github.com/Wynterwine/Basic-Web/assets/125936700/1646ebc9-33ec-4a8f-890f-c7db5fca14ae)
+
 Berikut kriteria-kriteria wajib submission yang harus Anda penuhi.
 
 -Terdapat elemen <header>, <footer>, <main>, <article>, dan <aside> di berkas HTML.
